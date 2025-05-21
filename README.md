@@ -43,20 +43,6 @@ O sistema tem como objetivo gerenciar um catálogo de brinquedos voltado para cr
 
 ## Estrutura do Projeto
 
-src/
-└── main/
-├── java/
-│ └── com/
-│ └── loja/
-│ └── brinquedos/
-│ ├── controller/
-│ ├── model/
-│ ├── repository/
-│ └── service/
-└── resources/
-├── application.properties
-└── static/
-
 less
 Copiar
 Editar
