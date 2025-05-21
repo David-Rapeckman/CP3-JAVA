@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte do **Checkpoint 3** da disciplina de **Programação com Spring Boot** do curso de **Análise e Desenvolvimento de Sistemas - FIAP**, ministrado pelo professor **Dr. Marcel Stefan Wagner**.
+Este projeto foi desenvolvido como parte do **Checkpoint 3** da disciplina de **Programação com Spring Boot** do curso de **Análise e Desenvolvimento de Sistemas - FIAP**, ministrado pelo professor **Dr. Marcel Stefan Wagner** e desenvolvido na (IntelliJ).
 
 O sistema tem como objetivo gerenciar um catálogo de brinquedos voltado para crianças de até 14 anos, permitindo operações CRUD completas (Create, Read, Update e Delete) integradas com banco de dados **Oracle SQL Developer**, utilizando **Spring Boot**, **JPA Repository** e **Validações com Bean Validation**.
 
